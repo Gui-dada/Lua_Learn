@@ -8,5 +8,12 @@
 -- print(type(print));
 -- print(type({}));
 
-local num
-print(num)
+-- local num
+-- print(num)
+
+local a = nil
+local a1 =10
+local b=100
+
+print(a1 and b)
+print(a1 or b)
