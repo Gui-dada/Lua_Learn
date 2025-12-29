@@ -1,2 +1,6 @@
 ﻿  main.cpp
+E:\CODING\Lua_Learn\Lua_Learn\main.cpp(45,8): warning C4244: “初始化”: 从“lua_Integer”转换到“int”，可能丢失数据
+E:\CODING\Lua_Learn\Lua_Learn\main.cpp(54,10): warning C4244: “+=”: 从“lua_Integer”转换到“int”，可能丢失数据
+E:\CODING\Lua_Learn\Lua_Learn\main.cpp(204,11): warning C4244: “初始化”: 从“lua_Number”转换到“int”，可能丢失数据
+E:\CODING\Lua_Learn\Lua_Learn\main.cpp(236,11): warning C4244: “初始化”: 从“lua_Number”转换到“int”，可能丢失数据
   Lua_Learn.vcxproj -> E:\CODING\Lua_Learn\x64\Debug\Lua_Learn.exe
